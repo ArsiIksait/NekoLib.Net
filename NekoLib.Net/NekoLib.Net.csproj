@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>Library</OutputType>
+    <StartupObject>NekoLib.Net.NekoSocket</StartupObject>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <Title>NekoLib.Net</Title>
+    <Authors>ArsiIksait</Authors>
+    <Company>NekoSharp</Company>
+    <Version>1.0.0</Version>
+    <Description>使用TcpListener和TcpClient，还有事件实现的一个简单收发的Socket服务器和客户端。</Description>
+    <RepositoryUrl>https://github.com/ArsiIksait/NekoLib.Net</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="http:\function-tr.top\12\image\5.png" />
+  </ItemGroup>
+
+</Project>
